@@ -1,6 +1,6 @@
 # Quem não te segue de volta no Instagram?
 
-Uma aplicação web[https://nao-seguidores-instagram.streamlit.app/] interativa feita em **Python** e **Streamlit** que cruza os dados do seu Instagram para revelar exatamente quais perfis você segue, mas que não te seguem de volta. 
+Uma aplicação [web](https://nao-seguidores-instagram.streamlit.app/) interativa feita em **Python** e **Streamlit** que cruza os dados do seu Instagram para revelar exatamente quais perfis você segue, mas que não te seguem de volta. 
 
 ## Funcionalidades
 
